@@ -1,6 +1,6 @@
 # Unsupervised Learning
 
-![ul-logo](https://danielmiessler.com/images/ul-logo-collection.png.webp)
+![ul-logo](https://danielmiessler.com/images/ul-wide.jpg)
 
 Anyone reading this text values learning. We all read books, watch YouTube, listen to podcasts, go to conferences, and do a dozen other activities to improve ourselves.
 
